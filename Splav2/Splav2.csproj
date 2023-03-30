@@ -13,4 +13,8 @@
     <Folder Include="ModelForMet\ViewModels\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\MVVM\MVVM.csproj" />
+  </ItemGroup>
+
 </Project>
